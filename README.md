@@ -1,7 +1,8 @@
 # WPS Office pt-BR (Linux) 🐧🇧🇷
 Pacote .deb do *WPS Office* para *Linux* com tradução e fórmulas do *Spreadsheets* em português do Brasil
 ## Instalação
-* Versão estável [*10.1.0.6758*](https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/tag/10.1.0.6758)
+* Versão estável [*10.1.0.6758*](https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/download/10.1.0.6758/wpsoffice.deb)
+* Última versão [*11.1.0.8865*](https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/download/11.1.0.8865/wpsoffice.deb)
 * *Demais versões, incluindo antigas e instáveis, estão disponíveis na aba [Releases](https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases)*
 ### Observações
 * Em alguns computadores as versões 11.x apresentam um problema que consiste na não finalização do processo *wps* após encerramento do programa, em decorrência disto, pode ocorrer uma demora no desligamento do computador. A solução encontrada para estes casos é utilizar a última versão 10.x, a Release [*10.1.0.6758*](https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/tag/10.1.0.6758)
