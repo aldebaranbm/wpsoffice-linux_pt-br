@@ -12,4 +12,4 @@ Pacote .deb do *WPS Office* para *Linux* com tradução e fórmulas do *Spreadsh
 * Nos arquivos *.desktop* foram removidos os descritivos *zh_CN*
 * Aplicado a tradução *pt_BR* (obtida através do *WPS Office* para *Windows*)
 * Adição dos modelos do *PowerPoint* 2007/2013/2016 ao *Presentation*
-> Os pacotes .deb utilizados como fonte deste trabalho foram obtidos no repositório do Linux Deepin, ou pelo website oficial do WPS Office (https://linux.wps.com)
+> Os pacotes .deb utilizados como fonte deste trabalho foram obtidos no repositório do Linux Deepin ou pelo website oficial do WPS Office (https://linux.wps.com)
